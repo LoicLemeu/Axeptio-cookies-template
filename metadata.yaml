@@ -14,7 +14,7 @@
 # limitations under the License.
 
 homepage: "https://www.axeptio.eu/en/home"
-documentation: "https://www.example.com/documentation"
+documentation: "https://developers.axeptio.eu/v/english/"
 versions:
   - sha: 8cda21b6f4fdae3b3be2843808c29b42d8529246
     changeNotes: Initial Version
