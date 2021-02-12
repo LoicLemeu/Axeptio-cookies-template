@@ -14,9 +14,10 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Axeptio cookies",
+  "categories": ["TAG_MANAGEMENT", "PERSONALIZATION"],
   "brand": {
     "id": "brand_dummy",
-    "displayName": ""
+    "displayName": "AxeptioCookies"
   },
   "description": "Template for Axeptio cookie gestion",
   "containerContexts": [
